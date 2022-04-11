@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hi@tsainei.com
+	name = tsainei yuan
